@@ -1,22 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
+        <p> 
+          <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://cafe.naver.com/chichiisland"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+          >
+          치치아일랜드
+          </a>
+          에 오신 것을 환영합니다.
+        </p>
+          이것은 제 껍니다.
       </header>
     </div>
   );
