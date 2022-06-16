@@ -34,7 +34,10 @@ function App() {
           >
           <img src={Giraffe} alt="It is a giraffe" width="300" />
           </a>
-          <br/>기린, 사랑히시죠?
+          <br/>
+            <text style={{
+              opacity : "0.5"
+            }}>기린, 사랑하시죠?</text>
         </p>
       </header>
       
