@@ -1,6 +1,7 @@
 import './App.css';
 import Giraffe from './giraffe.jpg';
 import { Container, Navbar } from 'react-bootstrap';
+import { graphql } from 'graphql';
 
 function App() {
   return (
@@ -37,7 +38,7 @@ function App() {
           <br/>
             <text style={{
               opacity : "0.5"
-            }}>기린, 사랑하시죠?</text>
+            }}>기린, 시링히시죠?</text>
         </p>
       </header>
       
