@@ -41,6 +41,17 @@ function App() {
             }}>기린, 시링히시죠?</text>
         </p>
       </header>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6166746458124854"crossorigin="anonymous"></script>
+      
+      <ins class="adsbygoogle"
+        style={{display:"block", textAlign:"center"}}
+        data-ad-layout="in-article"
+        data-ad-format="fluid"
+        data-ad-client="ca-pub-6166746458124854"
+        data-ad-slot="4284968946"></ins>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
       
     </div>
   );
