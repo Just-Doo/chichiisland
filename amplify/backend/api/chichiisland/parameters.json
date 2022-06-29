@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "chichiisland",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-06-29T19:40:45.149Z"
+}
